@@ -1,0 +1,30 @@
+---
+layout: post
+title: "My watchlist"
+date: 2016-10-22 13:52 +0530
+categories: ["hobbies"]
+author: Siddarth Bulia
+tagline: Not all treasure is silver gold, mate
+---
+
+# Movies I love
+- Pirates Of Carribbean (Jack sparrow you beauty <3).
+- Shawshank Redemption.
+- Deadpool
+- Inception
+- Batman Trilogy
+- Matrix
+- Shutter Island
+
+
+# TV Series
+- Friends (Forever)
+- How I met your mother
+- Stranger Things
+- Game Of Thrones
+- Sherlock Holmes
+- Westworld
+- Daredevil
+- Flash
+- Arrow
+- Legends Of Tomorrow (but do not recommend)

@@ -1,0 +1,42 @@
+---
+layout: post
+title: My reading list
+date: 2016-10-22 14:05 +0530
+categories: ["hobbies"]
+author: Siddharth Bulia
+---
+
+# Books I have read.
+Find my reviews [here](https://www.goodreads.com/review/list/48981672-siddharth-bulia?shelf=read)
+<div class="fav-list">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/books/read' %}
+    {% responsive_image_block %}
+      path: {{ image.path | remove_first: '/'}}
+      alt: {{ image.path | remove_first: '/' }}
+      {% if title %}
+        title: {{ title }}
+      {% endif %}
+    {% endresponsive_image_block %}
+    {% endif %}
+{% endfor %}
+</div>
+<br>
+<hr>
+<br>
+
+<h1> Books I am reading</h1>
+
+<div class="fav-list">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/books/current' %}
+    {% responsive_image_block %}
+      path: {{ image.path | remove_first: '/'}}
+      alt: {{ image.path | remove_first: '/' }}
+      {% if title %}
+        title: {{ title }}
+      {% endif %}
+    {% endresponsive_image_block %}
+    {% endif %}
+{% endfor %}
+</div>

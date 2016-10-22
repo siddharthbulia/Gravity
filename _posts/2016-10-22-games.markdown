@@ -1,0 +1,12 @@
+---
+layout: post
+category: ["hobbies"]
+date: 2016-10-22
+title: Games
+---
+
+I am not much sporty type but whenever I get a chance, I don't hesitate to try a new game.
+Like all other fellow indians, I used to follow cricket like religion in my childhood. As I entered college, I have tried a couple of new games
+like Table Tennis, Badminton, Swimming, Pool and Foosball. Just yesterday, we played Foosball for 3 straight hours.
+
+And also, my most favourite carrom. We even wrote a AI based agent to play carrom on our behalf. See [here](https://github.com/meetshah1995/carrom-rl) for the code.

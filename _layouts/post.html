@@ -15,6 +15,11 @@ layout: default
      {% endif %}
    </center>
   </header>
+  {{%if page.tagline%}}
+  <div class="tagline">
+  <span class="page-tagline"><em>{{page.tagline}}</em></span>
+  </div>
+  {{% endif %}}
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
