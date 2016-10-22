@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siddharth Bulia</title>
+    <description>My Online space</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Oct 2016 19:17:01 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2016 19:17:01 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>My reading list</title>
+        <description>&lt;h1 id=&quot;books-i-have-read&quot;&gt;Books I have read.&lt;/h1&gt;
+&lt;p&gt;Find my reviews &lt;a href=&quot;https://www.goodreads.com/review/list/48981672-siddharth-bulia?shelf=read&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;fav-list&quot;&gt;
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:156px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:153%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Alchemist.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:64;flex-basis:154px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:155%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Angels and demons.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:156px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:153%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Can love happen twice.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:158px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:151%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Five Point Someone.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:157px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:152%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Game of thrones.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:156px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:153%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Gulliver travels.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:68;flex-basis:163px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:146%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Harry potter aur paras patthar.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:66;flex-basis:158px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:151%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Hitchhiker&#39;s guide to galaxy.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:157px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:152%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/I too had a love story.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:64;flex-basis:154px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:155%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Immortals of meluha.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:79;flex-basis:191px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:125%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Little prince.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:64;flex-basis:155px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:154%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Man search for meaning of life.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:69;flex-basis:167px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:143%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Oath of vayuputras.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:109;flex-basis:261px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:91%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/Revolution 2020.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:63;flex-basis:153px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:156%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/read/The Secret of the nagas.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt; Books I am reading&lt;/h1&gt;
+
+&lt;div class=&quot;fav-list&quot;&gt;
+
+    
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:66;flex-basis:158px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:151%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/current/Elon Musk - Biography.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:65;flex-basis:156px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:153%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/current/The Da Vinci Code.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:59;flex-basis:143px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:167%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/current/To Kill A Mocking Bird.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:62;flex-basis:150px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:159%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/current/War Of The Worlds.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+    &lt;div style=&quot;flex-grow:63;flex-basis:152px;&quot;&gt;
+  &lt;i style=&quot;padding-bottom:156%&quot;&gt;&lt;/i&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/books/current/Zero To One.jpg&quot; /&gt;
+&lt;/div&gt;
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Oct 2016 08:35:00 +0000</pubDate>
+        <link>http://localhost:4000/hobbies/2016/10/22/books.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hobbies/2016/10/22/books.html</guid>
+        
+        
+        <category>hobbies</category>
+        
+      </item>
+    
+      <item>
+        <title>My watchlist</title>
+        <description>&lt;h1 id=&quot;movies-i-love&quot;&gt;Movies I love&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pirates Of Carribbean (Jack sparrow you beauty &amp;lt;3).&lt;/li&gt;
+  &lt;li&gt;Shawshank Redemption.&lt;/li&gt;
+  &lt;li&gt;Deadpool&lt;/li&gt;
+  &lt;li&gt;Inception&lt;/li&gt;
+  &lt;li&gt;Batman Trilogy&lt;/li&gt;
+  &lt;li&gt;Matrix&lt;/li&gt;
+  &lt;li&gt;Shutter Island&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;tv-series&quot;&gt;TV Series&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friends (Forever)&lt;/li&gt;
+  &lt;li&gt;How I met your mother&lt;/li&gt;
+  &lt;li&gt;Stranger Things&lt;/li&gt;
+  &lt;li&gt;Game Of Thrones&lt;/li&gt;
+  &lt;li&gt;Sherlock Holmes&lt;/li&gt;
+  &lt;li&gt;Westworld&lt;/li&gt;
+  &lt;li&gt;Daredevil&lt;/li&gt;
+  &lt;li&gt;Flash&lt;/li&gt;
+  &lt;li&gt;Arrow&lt;/li&gt;
+  &lt;li&gt;Legends Of Tomorrow (but do not recommend)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Oct 2016 08:22:00 +0000</pubDate>
+        <link>http://localhost:4000/hobbies/2016/10/22/movies.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hobbies/2016/10/22/movies.html</guid>
+        
+        
+        <category>hobbies</category>
+        
+      </item>
+    
+      <item>
+        <title>Games</title>
+        <description>&lt;p&gt;I am not much sporty type but whenever I get a chance, I don’t hesitate to try a new game.
+Like all other fellow indians, I used to follow cricket like religion in my childhood. As I entered college, I have tried a couple of new games
+like Table Tennis, Badminton, Swimming, Pool and Foosball. Just yesterday, we played Foosball for 3 straight hours.&lt;/p&gt;
+
+&lt;p&gt;And also, my most favourite carrom. We even wrote a AI based agent to play carrom on our behalf. See &lt;a href=&quot;https://github.com/meetshah1995/carrom-rl&quot;&gt;here&lt;/a&gt; for the code.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/hobbies/2016/10/22/games.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hobbies/2016/10/22/games.html</guid>
+        
+        
+        <category>hobbies</category>
+        
+      </item>
+    
+  </channel>
+</rss>
