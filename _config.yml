@@ -13,11 +13,15 @@ title: Siddharth Bulia
 email: siddharthbulia@gmail.com
 description: My Online space
 baseurl:  # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site
-github_username:  sidddharthbulia
+url: "http://siddharthbulia.com" # the base hostname & protocol for your site
+github_username:  siddharthbulia
+facebook_username: siddharth.bulia
+linkedin_username: siddharthbulia
 
+collections:
+  projects:
 # Build settings
-markdown: kramdown
+markdown: rdiscount
 
 responsive_image:
   # [Required]

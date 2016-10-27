@@ -1,0 +1,10 @@
+<div style="display:inline-block">
+  <div><img src={{site.baseurl}}/{{project.image_path}} width="40%" style="float:left"><div>
+  <h1>&nbsp;&nbsp;{{project.title}}</h1>
+  <h4 style="display:inline">&nbsp;&nbsp;{{project.course}}</h4>
+  {% if project.github_link %}<h4 style="display:inline;float:right"><a target="_blank" href="{{project.github_link}}">[Github]</a></h4>{%endif%}
+  {% if project.video_link %}<h4 style="display:inline;float:right"><a target="_blank" href="{{project.video_link}}">[Video]</a></h4>{%endif%}
+  {% if project.report %}<h4 style="display:inline;float:right"><a target="_blank" href="{{project.report}}">[Report]</a></h4>{%endif%}
+
+  <div>{{project.content}}</div>
+</div>
